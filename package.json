@@ -1,0 +1,35 @@
+{
+  "name": "fullstack-js-interview",
+  "version": "1.0.0",
+  "description": "PPRO's coding exercise for new JS developers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --bail --runInBand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/ppro/fullstack-js-interview.git"
+  },
+  "keywords": [
+    "ppro",
+    "interview",
+    "js",
+    "coding"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/ppro/fullstack-js-interview/issues"
+  },
+  "homepage": "https://gitlab.com/ppro/fullstack-js-interview#readme",
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "jest-tap-reporter": "^1.9.0",
+    "lodash": "^4.17.11"
+  },
+  "dependencies": {
+    "csv-parse": "^4.8.2",
+    "node-fetch": "^2.3.0",
+    "prettier": "^1.16.4"
+  }
+}
