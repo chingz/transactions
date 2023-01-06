@@ -23,7 +23,7 @@
   },
   "homepage": "https://gitlab.com/ppro/fullstack-js-interview#readme",
   "devDependencies": {
-    "jest": "^23.6.0",
+    "jest": "^29.3.1",
     "jest-tap-reporter": "^1.9.0",
     "lodash": "^4.17.11"
   },
